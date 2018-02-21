@@ -1,0 +1,17 @@
+.card {
+    width: 300px;
+    height: 400px;
+    margin: 25px;
+}
+.cardPicArea {
+    height: 50%;
+    width: 100%;
+}
+.cardTextArea {
+    height: 50%;
+    width: 100%;
+}
+.cardPic {
+    height: 100%;
+    width: 100%;
+}

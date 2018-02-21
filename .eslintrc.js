@@ -1,3 +1,11 @@
 module.exports = {
-    "extends": "airbnb"
+    'parser': 'babel-eslint',
+    'extends': 'airbnb',
+    'env': {
+      'browser': true,
+    },
+    'rules': {
+      'react/jsx-filename-extension': false,
+      'react/prefer-stateless-function': false
+    }
 };

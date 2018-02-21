@@ -1,0 +1,9 @@
+.oopsBox {
+    background-color: orange;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin:auto;
+}
